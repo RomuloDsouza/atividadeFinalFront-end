@@ -37,13 +37,15 @@
   .navbar-actions{
    display: flex;
    gap: 0.3rem;
+   align-items: center;
    
   }
   
   
 
     .navbar-actions a {
-        color: #6c63ff;
+        color: blue;
+        text-decoration: none
     }
   
   .navbar-actions button  {
